@@ -1,0 +1,57 @@
+.body {
+    background-color:whitesmoke;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+}
+.nav {
+    list-style: none;  
+    padding: 0;
+    margin:0 auto;
+    display:inline-block;
+}
+.nav li {
+    display: inline-block;
+    margin: 0 75px;
+}
+.container {
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: red;
+    padding: 5px;
+    text-align: center;
+}
+.button {
+    text-decoration: none;
+    background-color: whitesmoke;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 5.5px;
+    padding-bottom: 5.5px;
+    color: red; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.image-caption {
+    color: red;
+}
+#ferrari {
+    font-size: 50px;
+}
+.bigferrari {
+    width: 100%;
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    border: none;
+}
+.moved-heading {
+    font-size: 50px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
