@@ -6,13 +6,9 @@ web8final
   <li>
     <a href="midterm_website">Midterm</a>
   </li>
-</ul>
-<ul>
   <li>
     <a href="magic_8_ball">Magic 8 Ball</a>
   </li>
-</ul>
-<ul>
   <li>
     <a href="final_website">Final</a>
   </li>
